@@ -631,7 +631,7 @@ date +%F
 
  程序不需要编译，程序在运行时由**解释器**翻译成机器语言，每执行一次都要翻译一次。因此效率比较低。比如Python/JavaScript/ Perl /ruby/Shell等都是解释型语言。
 
-![./语言分类](http://xn--kbry84hvqil0b.png/?ynotemdtimestamp=1607388071614)
+![/语言分类](http://xn--kbry84hvqil0b.png/?ynotemdtimestamp=1607388071614)
 
 - **总结**
 
